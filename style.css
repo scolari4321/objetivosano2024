@@ -37,6 +37,12 @@ body {
     color: var(--verde);
 }
 
+.ativo{
+    background-color: var(--botao-ativo);
+    border-bottom: 4px solid var(--verde);
+}
+
+
 .botao{
 
     font-family: "Crakra Pecth", sans-serif;
